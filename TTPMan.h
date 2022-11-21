@@ -12,7 +12,7 @@ private:
     std::string status;
 public:
     TTPMan() {
-        this->status;
+        this->status = "silent"; // for default.
     }
     std::string get_status();
 };

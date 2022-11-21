@@ -21,7 +21,9 @@ int main(int argc, char** argv) {
     auto* ttpMan = new TTPMan();
     if (argc == 1) {
         usage();
-    } else if (argc == 2 && (strcmp(argv[1], "-h") == 0) | strcmp(argv[1], "--help") == 0) {
+    } else if (argc == 2 && strcmp(argv[1], "-h") == 0) {
+        help();
+    } else if (argc == 2 && strcmp(argv[1], "--help") == 0) {
         help();
     } else {
         usage();
