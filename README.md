@@ -1,4 +1,13 @@
 ## TTPMan
 **T**hrottle **T**hermal **P**olicy **Man**ager for laptops such as Asus FX5DT.
 
-## Usage
+### Available Modes
+1. Silent
+2. Turbo
+3. On Demand
+
+### Usage
+
+```bash
+ttpman [--status | -s] [--mode <mode>]
+```
