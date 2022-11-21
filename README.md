@@ -9,5 +9,5 @@
 ### Usage
 
 ```bash
-ttpman [--status | -s] [--mode <mode>]
+TTPMan [--status | -s] [--mode <mode>]
 ```
