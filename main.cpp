@@ -12,7 +12,7 @@ void usage() {
 
 int main(int argc, char** argv) {
     auto* ttpMan = new TTPMan();
-    if(argc == 0) {
+    if(argc == 1) {
         usage();
     } else {
         return 0;
