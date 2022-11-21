@@ -1,3 +1,0 @@
-/work/github/TTPMan/cmake-build-debug/CMakeFiles/TTPMan.dir
-/work/github/TTPMan/cmake-build-debug/CMakeFiles/edit_cache.dir
-/work/github/TTPMan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
