@@ -8,6 +8,6 @@
 
 ### Usage
 
-```bash
+```
 TTPMan [--status | -s] [--mode <mode>]
 ```
