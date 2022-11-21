@@ -3,7 +3,8 @@
 //
 
 #include "TTPMan.h"
+#include <iostream>
 
-char* TTPMan::get_status() {
+std::string TTPMan::get_status() {
 
 }

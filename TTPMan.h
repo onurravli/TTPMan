@@ -9,12 +9,12 @@
 
 class TTPMan {
 private:
-    char* status;
+    std::string status;
 public:
     TTPMan() {
-        status = (char*)malloc(sizeof(char)*255);
+        this->status;
     }
-    char* get_status();
+    std::string get_status();
 };
 
 
