@@ -3,4 +3,4 @@ project(TTPMan)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TTPMan main.cpp)
+add_executable(TTPMan main.cpp TTPMan.cpp TTPMan.h)
