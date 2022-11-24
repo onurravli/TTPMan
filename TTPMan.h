@@ -15,6 +15,7 @@ public:
         this->status = "silent"; // for default.
     }
     std::string get_status();
+    void set_status(int status_code);
 };
 
 

@@ -8,3 +8,7 @@
 std::string TTPMan::get_status() {
 
 }
+
+void TTPMan::set_status(int status_code) {
+    
+}
